@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+I love programming and hope to be one of the best programmers in future
